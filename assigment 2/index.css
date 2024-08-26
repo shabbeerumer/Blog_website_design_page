@@ -1,0 +1,162 @@
+body{
+    background-color: rgb(245, 243, 243);
+}
+
+.a {
+    text-align: center;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.a span{
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.b{
+    display: flex;
+    font-family: "Raleway", sans-serif;
+
+}
+
+.b_1 {
+
+    /* 1,left,right 2,top,bottom 3,blur 4,spread 5,color */
+    
+    box-shadow: 2px 2px 3px 4px rgb(211, 209, 209);
+    background-color: white;
+
+}
+
+  .b_1 h1,p,a{
+    padding-left: 10px;
+    padding-right: 10px;
+
+    
+}
+
+
+/* .b_1 p span{
+  opacity: 0.4;
+} */
+
+
+
+.b_2{
+    background-color: white;
+    box-shadow: 2px 2px 3px 4px rgb(211, 209, 209);
+    margin-left: 85px;
+    height: 450px;
+}
+
+/* .b_1 a{
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+} */
+
+
+.a-p_tag{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.a-p_tag a{
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+.pc span{
+    opacity: 0.2;
+}
+.pn span{
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+     margin-left: 3px;
+    padding-left: 5px;
+    padding-right: 5px ;
+}
+
+/* .a-p_tag p span{
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+     margin-left: 3px;
+    padding-left: 5px;
+    padding-right: 5px ;
+} */
+
+
+.c{
+    font-family: "Raleway", sans-serif;
+    box-shadow: 2px 2px 3px 4px rgb(211, 209, 209);
+    background-color: white;
+    display: flex;
+    width: 810px;
+}
+
+.c_1 h1,p,a{
+    padding-left: 10px;
+    padding-right: 10px;
+
+    
+}
+
+
+.c span{
+    opacity: 0.4;
+}
+
+
+.c_section_a-p_tag{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+
+
+.c_section_a-p_tag a{
+    margin-left: 6px;
+    text-decoration: none;
+    color: black;
+    border: 1px solid gray;
+    padding-top: 10px;
+    padding-bottom: 10px;
+
+}
+
+
+
+
+.c_section_a-p_tag p span{
+    color: white;
+    background-color: black;
+    border: 5px solid black;
+    border-radius: 100px;
+    margin-left: 3px;
+    padding-left: 5px;
+    padding-right: 5px ;
+}
+
+
+
+
+
+
+
+
+
+
+
